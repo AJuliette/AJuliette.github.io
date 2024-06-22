@@ -3,9 +3,6 @@ layout: post
 title: "Premier projet: l'EVJF"
 description: Un classique pour commencer
 permalink: /projects/premier-projet-evjf
-# urls:
-#     source: https://github.com/meebuhs/typey-boi
-#     download: https://github.com/meebuhs/typey-boi/releases
 images:
     cover: /assets/images/premier-projet-evjf/cover.png 
     top: /assets/images/premier-projet-evjf/cover.png 
