@@ -61,3 +61,8 @@
     font-size: 0.9rem;
     color: $tertiary-highlight;
 }
+
+.list-multiple-images {
+    display: flex;
+    justify-content: space-between;
+}

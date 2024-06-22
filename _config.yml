@@ -1,13 +1,13 @@
 # Site settings
-title: site-title
+title: Armure
 tagline: site-tagline
 description: site-description
 image: /assets/images/image.png
-url: https://github.com/meebuhs/arco
-github_url: https://github.com/meebuhs
-resume: true
-author: Alex Sharpe
-lang: en-AU
+url: 
+github_url: 
+resume: false
+author: Juliette Audema
+lang: fr-FR
 
 # Build settings
 theme: arco
