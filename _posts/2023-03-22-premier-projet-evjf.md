@@ -2,7 +2,7 @@
 layout: post
 title: "Premier projet: l'EVJF"
 description: Un classique pour commencer
-permalink: /projects/premier-projet-evjf
+permalink: /projets/premier-projet-evjf
 images:
     cover: /assets/images/premier-projet-evjf/cover.png 
     top: /assets/images/premier-projet-evjf/cover.png 
