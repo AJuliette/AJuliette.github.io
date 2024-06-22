@@ -38,4 +38,4 @@ La Fabmanager nous fait une petite démonstration avec ce dinosaure. Et ça y es
 
 Je suis revenue pendant un jour et demi pour broder les 15 pochettes. Heureusement la FabManager a réalisé la numérisation de mon modèle parce que ça m'a bien facilité le travail.
 
-<img src="/assets/images/premier-projet-evjf/team-carotte.jpg" style="max-width: 60%" />
+<img src="/assets/images/premier-projet-evjf/team_carotte.jpg" style="max-width: 60%" />
