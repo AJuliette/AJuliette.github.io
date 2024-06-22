@@ -5,3 +5,4 @@ gemspec
 
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
+gem "webrick", "~> 1.8"
