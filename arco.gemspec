@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["meebuhs"]
   spec.email         = ["meebuhs@gmail.com"]
 
-  spec.summary       = "A fixed sidebar, two column masonry grid jekyll theme."
+  spec.summary       = "Expérimentations en broderie"
   spec.homepage      = "https://github.com/meebuhs/arco"
   spec.license       = "MIT"
 
