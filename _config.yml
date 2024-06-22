@@ -10,7 +10,6 @@ author: Juliette Audema
 lang: fr-FR
 
 # Build settings
-theme: arco
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
