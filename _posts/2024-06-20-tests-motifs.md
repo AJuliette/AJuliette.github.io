@@ -6,7 +6,7 @@ permalink: /projets/tests-motifs
 images:
     cover: /assets/images/tests-motifs/cover.jpeg 
     top: /assets/images/tests-motifs/cover.jpeg 
-tags: [fablab, couture, tote-bag, brodeuse, pe-design]
+tags: [fablab, tests, brodeuse, pe-design]
 ---
 
 <hr/>
