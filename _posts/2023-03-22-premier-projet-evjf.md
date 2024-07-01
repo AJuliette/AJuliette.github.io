@@ -6,8 +6,16 @@ permalink: /projets/premier-projet-evjf
 images:
     cover: /assets/images/premier-projet-evjf/cover.png 
     top: /assets/images/premier-projet-evjf/cover.png 
-tags: [madras, essai, evjf, fablab, makeherspace]
+tags: [madras, essai, evjf, fablab, makeherspace, brodeuse, pe-design]
 ---
+
+<hr/>
+
+Machine: Brother Innovis V3LE - Limited Edition
+
+Fils: Madeira Polyneon - 8045
+
+<hr/>
 
 Février, c'est le moment de panique, car l'EVJF de ma meilleure amie approche (je suis la témoin) et il nous faut des t-shirts pour toutes les invitées. On part sur une petite poche brodée à ajouter sur un t-shirt blanc (on a dit "classique" !).
 J'avais déjà assisté quelques années auparavant à un atelier en FabLab. Je me mets à fouiller furieusement tous les fablabs de Paris et Navarre (enfin juste d'Île-de-France pas trop loin) et je tombe sur le [Fablab La Verrière à Montreuil](https://fablab-laverriere.org/) qui organise juste à temps pour moi un atelier de prise en main de la brodeuse numérique.
